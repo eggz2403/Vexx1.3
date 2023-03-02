@@ -1,0 +1,1 @@
+{"FOV Radius":"265","Show FOV":true,"Team Check":true,"ESP":true,"Visuals Color":"Rainbow","Tracers":true,"Aimbot":true}
